@@ -1,6 +1,4 @@
-Helpdesk Home Lab – Active Directory Setup & Domain Controller Promotion (Windows Server 2022)
-
-# Helpdesk Home Lab - Patch Management-Action1-Compliance-Reporting (Windows Server 2022)
+# Helpdesk Home Lab - Patch Management, Action1, Compliance, and Reporting (Windows Server 2022)
 
 <h2>Description</h2>
 
