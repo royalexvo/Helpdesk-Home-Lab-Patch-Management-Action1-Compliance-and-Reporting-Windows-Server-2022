@@ -1,46 +1,50 @@
-Helpdesk Home Lab - Patch Management, Action1, Compliance, and Reporting Windows Server 2022
+# Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-Reporting-Windows-Server-2022
 
 <h2>Description</h2>
 
 This lab demonstrates patch management, endpoint administration, and compliance reporting using Action1 in a Windows Server environment. The goal of this lab is to practice deploying endpoint management agents, managing Windows updates, reviewing compliance requirements, generating audit reports, and performing asset inventory tasks commonly used in help desk, systems administration, and cybersecurity environments.
 
-<br />In this setup, the following tasks were completed:
+In this lab, the following tasks were completed:
 
-<b>Reviewed patch management concepts and best practices</b>
-<b>Discussed compliance frameworks including SOC 2 Type II, PCI, HIPAA, and ISO 27001</b>
-<b>Reviewed common enterprise patch management platforms</b>
-<b>Downloaded the Action1 endpoint management agent</b>
-<b>Transferred the Action1 installer into the lab environment</b>
-<b>Installed the Action1 endpoint agent</b>
-<b>Configured network connectivity for endpoint registration</b>
-<b>Connected a Windows Server 2022 endpoint to Action1</b>
-<b>Verified endpoint status within the Action1 dashboard</b>
-<b>Reviewed endpoint management capabilities</b>
-<b>Identified missing Windows updates</b>
-<b>Configured patch deployment settings</b>
-<b>Configured automatic reboot options</b>
-<b>Deployed Windows updates to a managed endpoint</b>
-<b>Monitored update installation progress</b>
-<b>Reviewed vulnerability management reporting</b>
-<b>Generated endpoint inventory reports</b>
-<b>Reviewed hardware inventory reporting</b>
-<b>Reviewed software inventory reporting</b>
-<b>Reviewed compliance and audit reporting capabilities</b>
+- <b>Reviewed patch management concepts and best practices</b>
+- <b>Discussed compliance frameworks including SOC 2 Type II, PCI, HIPAA, and ISO 27001</b>
+- <b>Reviewed common enterprise patch management platforms</b>
+- <b>Downloaded the Action1 endpoint management agent</b>
+- <b>Transferred the Action1 installer into the lab environment</b>
+- <b>Installed the Action1 endpoint agent</b>
+- <b>Configured network connectivity for endpoint registration</b>
+- <b>Connected a Windows Server 2022 endpoint to Action1</b>
+- <b>Verified endpoint status within the Action1 dashboard</b>
+- <b>Reviewed endpoint management capabilities</b>
+- <b>Identified missing Windows updates</b>
+- <b>Configured patch deployment settings</b>
+- <b>Configured automatic reboot options</b>
+- <b>Deployed Windows updates to a managed endpoint</b>
+- <b>Monitored update installation progress</b>
+- <b>Reviewed vulnerability management reporting</b>
+- <b>Generated endpoint inventory reports</b>
+- <b>Reviewed hardware inventory reporting</b>
+- <b>Reviewed software inventory reporting</b>
+- <b>Reviewed compliance and audit reporting capabilities</b>
+
+This lab demonstrates how organizations manage software updates, maintain compliance requirements, and generate reports used during security audits and asset management reviews.
 
 <h2>Languages and Utilities Used</h2>
-<b>Action1</b>
-<b>Windows Server 2022</b>
-<b>Windows 10</b>
-<b>Oracle VirtualBox</b>
-<b>Control Panel</b>
-<b>TCP/IPv4 Configuration</b>
-<b>Patch Management Dashboard</b>
 
-<h2>Environments Used </h2>
-<b>Domain Controller: Windows Server 2022</b>
-<b>Client Machine: Windows 10</b>
-<b>Oracle VirtualBox</b>
-<b>Action1 Cloud Management Platform</b>
+- <b>Action1</b>
+- <b>Windows Server 2022</b>
+- <b>Windows 10</b>
+- <b>Oracle VirtualBox</b>
+- <b>Control Panel</b>
+- <b>TCP/IPv4 Configuration</b>
+- <b>Patch Management Dashboard</b>
+
+<h2>Environments Used</h2>
+
+- <b>Domain Controller: Windows Server 2022</b>
+- <b>Client Machine: Windows 10</b>
+- <b>Oracle VirtualBox</b>
+- <b>Action1 Cloud Management Platform</b>
 
 <h2>Program walk-through:</h2>
 
