@@ -51,13 +51,13 @@ This lab demonstrates how organizations manage software updates, maintain compli
 <p align="center">
 <b>Step 1 – Review Patch Management Concepts</b><br/><br/>
 Review patch management objectives, compliance requirements, and enterprise update strategies. <a href="https://docs.google.com/document/d/1ZoJNqmKoBNUdmokhD98YzQYhgwixJaWa6etcDTXJYRQ/edit?usp=sharing">[Report on it here]</a>:<br/>
-<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022/blob/main/1.png?raw=true" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022/blob/main/1.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 2 – Review Patch Management Platforms</b><br/><br/>
 Explore common patch management solutions including Action1, NinjaOne, PDQ, and SCCM. <a href="https://docs.google.com/document/d/1ZoJNqmKoBNUdmokhD98YzQYhgwixJaWa6etcDTXJYRQ/edit?usp=sharing">[Report on it here]</a>:<br/>
-<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022/blob/main/2.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022/blob/main/2.1.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
