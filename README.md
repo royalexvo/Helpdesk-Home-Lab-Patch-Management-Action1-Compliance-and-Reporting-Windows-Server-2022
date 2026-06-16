@@ -57,7 +57,7 @@ Review patch management objectives, compliance requirements, and enterprise upda
 <p align="center">
 <b>Step 2 – Review Patch Management Platforms</b><br/><br/>
 Explore common patch management solutions including Action1, NinjaOne, PDQ, and SCCM:<br/>
-<img src="INSERT_STEP_2_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022/blob/main/2.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
