@@ -134,6 +134,6 @@ Explore built-in reports used for compliance audits, vulnerability management, a
 
 <p align="center">
 <b>Step 15 – Review Asset Inventory Reporting</b><br/><br/>
-Generate endpoint, hardware, and software inventory reports to the shared VM file for auditing and asset management purposes:<br/>
+Generate endpoint, hardware, and software inventory reports to the shared VM folder for auditing and asset management purposes:<br/>
 <img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022/blob/main/15.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
