@@ -50,7 +50,7 @@ This lab demonstrates how organizations manage software updates, maintain compli
 
 <p align="center">
 <b>Step 1 – Review Patch Management Concepts</b><br/><br/>
-Review patch management objectives, compliance requirements, and enterprise update strategies. [Report on it here](https://docs.google.com/document/d/1ZoJNqmKoBNUdmokhD98YzQYhgwixJaWa6etcDTXJYRQ/edit?usp=sharing):<br/>
+Review patch management objectives, compliance requirements, and enterprise update strategies. <a href="https://docs.google.com/document/d/1ZoJNqmKoBNUdmokhD98YzQYhgwixJaWa6etcDTXJYRQ/edit?usp=sharing">[Report on it here]</a>:<br/>
 <img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Patch-Management-Action1-Compliance-and-Reporting-Windows-Server-2022/blob/main/1.png?raw=true" alt="Lab Steps"/>
 </p>
 
