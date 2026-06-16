@@ -67,7 +67,7 @@ Sign in to the Action1 portal and review available endpoint management features:
 </p>
 
 <p align="center">
-<b>Step 4 – Download the Action1 Agent</b><br/><br/>
+<b>Step 4 – Download the Action1 Agent installer for transfer.</b><br/><br/>
 Download the endpoint management agent from the Action1 dashboard:<br/>
 <img src="INSERT_STEP_4_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 </p>
